@@ -1,0 +1,3 @@
+com\example\prometheusdemo\controller\UserController.class
+com\example\prometheusdemo\PrometheusDemoApplication.class
+com\example\prometheusdemo\util\MetricsUtil.class
